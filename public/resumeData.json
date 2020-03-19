@@ -7,12 +7,12 @@
     "bio":"Come from financial background, and find myself in tech industry. I am passionate on programming, data, web applications, user interface and all technologes.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "haizhou.guo@gmail.com",
-    "phone": "858-349-0819",
+    "phone": "",
     "address":{
-      "street":"7376 Via Cresta Rd",
-      "city":"San Diego",
-      "state":"California",
-      "zip": "92129"
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",

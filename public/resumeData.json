@@ -77,28 +77,22 @@
     "projects": [
 
       {
+        "title":"Stock-Byte",
+        "category":"Full stack website build with Rails and React. Users can track portfolio and play mock trading game",
+        "image":"StockByte.png",
+        "url":"https://stockbyte.herokuapp.com/"
+      },
+      {
         "title":"Battleship Game",
-        "category":"",
+        "category":"Board Game of Battleship, built with Javascript and React",
         "image":"battleships.jpg",
         "url":"https://github.com/learn-academy-2020-alpha/battleship-jiggly-jello-return-of-the-king"
       },
       {
-        "title":"Treasure Hunt Game",
-        "category":"",
-        "image":"teasurehunt.jpg",
-        "url":"https://github.com/haizhou85/treasurehunt"
-      },
-      {
-        "title":"TBD",
-        "category":"",
-        "image":"working.png",
-        "url":""
-      },
-      {
-        "title":"Capstone Project",
-        "category":"",
-        "image":"capstone.png",
-        "url":""
+        "title":"Apartment Management",
+        "category":"Web Application to post and manage apartment listings, used Rails and React.",
+        "image":"Apartment.png",
+        "url":"https://github.com/haizhou85/Apartment"
       }
     ]
   }

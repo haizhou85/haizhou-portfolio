@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
+import resume from './Resume.pdf'
 
 class About extends Component {
   render() {
@@ -28,8 +29,11 @@ class About extends Component {
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                  
+                  <a href={resume} download="Haizhou Guo Resume">
+                     <button type="button" class="btn btn-primary btn-lg">
+                        Downloadn Resume
+                     </button>
+                  </a>
                </div>
 
             </div>

@@ -55,9 +55,15 @@
     ],
     "work":[
       {
+        "company":"Notch 8",
+        "title":"Web Developer",
+        "years":"Apr 2020 - Present",
+        "description": "Developed and maintained internal application tracks work hours and billing information use Ruby on rails."
+      },
+      {
         "company":"Learn Academy",
         "title":"Web Developer",
-        "years":"Feb 2020 - Present",
+        "years":"Feb 2020 - Apr 2020",
         "description":"A Full Stack Bootcamp with a passion of preparing students for real life aspects of a job in web development. Conceptualize, implement, and test web applications using various languages and frameworks. Effectively operated in an AGILE software environment team."
       },
       {

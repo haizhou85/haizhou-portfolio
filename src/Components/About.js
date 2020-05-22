@@ -31,7 +31,7 @@ class About extends Component {
                <div className="columns contact-details">
                   <a href={resume} download="Haizhou Guo Resume">
                      <button type="button" class="btn btn-primary btn-lg">
-                        Downloadn Resume
+                        Download Resume
                      </button>
                   </a>
                </div>
